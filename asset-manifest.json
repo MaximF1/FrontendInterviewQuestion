@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/FrontendInterviewQuestion/static/css/main.9b62177b.css",
-    "main.js": "/FrontendInterviewQuestion/static/js/main.1fb5782c.js",
+    "main.js": "/FrontendInterviewQuestion/static/js/main.679ef177.js",
     "static/media/heart-icon-active.svg": "/FrontendInterviewQuestion/static/media/heart-icon-active.3f5b594701e3e3a805e15ed217552a1a.svg",
     "static/media/heart-icon.svg": "/FrontendInterviewQuestion/static/media/heart-icon.41b5dc35ad566eed128bdf3f01109b88.svg",
     "index.html": "/FrontendInterviewQuestion/index.html",
     "main.9b62177b.css.map": "/FrontendInterviewQuestion/static/css/main.9b62177b.css.map",
-    "main.1fb5782c.js.map": "/FrontendInterviewQuestion/static/js/main.1fb5782c.js.map"
+    "main.679ef177.js.map": "/FrontendInterviewQuestion/static/js/main.679ef177.js.map"
   },
   "entrypoints": [
     "static/css/main.9b62177b.css",
-    "static/js/main.1fb5782c.js"
+    "static/js/main.679ef177.js"
   ]
 }
